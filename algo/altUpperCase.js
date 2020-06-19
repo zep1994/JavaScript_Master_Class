@@ -8,4 +8,5 @@ function capitalize(s){
     }
 }
 
+
 capitalize("abcdef")
